@@ -63,3 +63,43 @@ The app integrates **Google Authentication**, **Cloud Firestore**, and **Imgur A
 
 ## 📷 Screenshots
 
+![WhatsApp Image 2025-01-27 at 11 29 08 AM-portrait]()
+![WhatsApp Image 2025-01-27 at 11 29 08 AM (1)-portrait]()
+![WhatsApp Image 2025-01-27 at 11 29 07 AM-portrait]()
+![WhatsApp Image 2025-01-27 at 11 29 07 AM (1)-portrait]()
+![WhatsApp Image 2025-01-27 at 11 29 06 AM-portrait]()
+![WhatsApp Image 2025-01-27 at 11 29 20 AM-portrait]()
+
+### 📽️ Demo
+
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/f08d3589-c5f5-461e-9ce9-d6da3f68a279" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/4c592d1a-dbdf-4b1e-a35f-e41e9976c455" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/b01960e8-0542-444f-bc62-30e1c26629d7" height = 65% width = 25%>
+</div>
+
+<br>
+
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/d994b32b-5c54-48aa-9b80-131efb0d2dfc" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/4d5d2ba1-83c9-4ce4-b6d9-0a4892566267" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/0aa93e3f-7778-404c-ac8f-6d71f120408e" height = 65% width = 25%>
+</div>
+
+<div align="center">
+  <video height="450" controls src=""></video>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
