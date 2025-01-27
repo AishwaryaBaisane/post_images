@@ -62,6 +62,17 @@ The app integrates **Google Authentication**, **Cloud Firestore**, and **Imgur A
    - Add it to your .env file.
 
 ## 📷 Screenshots
+<br>
+<br>
+<img src = "https://github.com/user-attachments/assets/4fc43e70-f8b0-4b12-a3f5-0548e192cf2a" height = 60% >
+<br>
+<br>
+<img src = "https://github.com/user-attachments/assets/92674ed7-09df-4db9-8b37-ebd0bbcbb1c3" height = 60% >
+<br>
+<br>
+<img src = "https://github.com/user-attachments/assets/28db60cf-3d62-4ef6-9667-0ea5ccf99272" height = 60% >
+<br>
+<br>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/f08d3589-c5f5-461e-9ce9-d6da3f68a279" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/d994b32b-5c54-48aa-9b80-131efb0d2dfc" height = 65% width = 25%>
